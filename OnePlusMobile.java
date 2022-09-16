@@ -1,6 +1,6 @@
 package onesoft;
 
-public class Mobile {
+public class OnePlusMobile {
 	
 	String brand;
 	int price;

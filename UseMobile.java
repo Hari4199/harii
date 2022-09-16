@@ -5,9 +5,9 @@ public class UseMobile {
 	public static void main(String[] args) {
 		
 		
-Mobile m=new Mobile();
+OnePlusMobile m=new OnePlusMobile();
 		
-		Mobile m2=new Mobile();
+		OnePlusMobile m2=new OnePlusMobile();
 		
 		
 		m.brand="Samsung";
